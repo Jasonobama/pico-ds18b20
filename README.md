@@ -66,10 +66,6 @@ cmake --build .
 
 Build outputs are in `build/`. Drag `DS18B20.uf2` onto the Pico 2 USB mass storage device to flash.
 
-### VS Code Development
-
-The project includes `.vscode/` configuration for the Raspberry Pi Pico VS Code extension, enabling one-click build and flash.
-
 ## Usage
 
 1. Connect the DS18B20 sensor and LCD1602 display as per the hardware table above

@@ -66,10 +66,6 @@ cmake --build .
 
 构建产物位于 `build/` 目录，其中 `DS18B20.uf2` 可直接拖入 Pico 2 的 USB 大容量存储设备进行烧录。
 
-### VS Code 开发
-
-项目已包含 `.vscode/` 配置，使用 Raspberry Pi Pico VS Code 扩展可直接一键编译烧录。
-
 ## 使用方式
 
 1. 按照上述硬件连接表接好 DS18B20 传感器和 LCD1602 屏幕
